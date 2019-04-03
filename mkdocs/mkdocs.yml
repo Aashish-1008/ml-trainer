@@ -1,0 +1,8 @@
+site_name: skyl_trainer
+nav:
+    - Home: index.md
+    - About: about.md
+#theme: readthedocs
+theme:
+  name: 'material'
+
